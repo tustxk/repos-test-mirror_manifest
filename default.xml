@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+     <remote name="origin" fetch="https://github.com/tustxk"/>
+
+     <default revision="master" remote="origin" />
+     <project name="repos-test-mirror_test1" path="test1"/>
+     <project name="repos-test-mirror_test2" path="test2"/>
+
+</manifest>
